@@ -19,4 +19,4 @@
 
 
 FOR ADMIN : USERNAME - admin \
-            PASSWORD - password
+           \ PASSWORD - password
