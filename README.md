@@ -18,5 +18,4 @@
 
 
 
-FOR ADMIN : USERNAME - admin \
-           \ PASSWORD - password
+FOR ADMIN : USERNAME - admin \ PASSWORD - password
