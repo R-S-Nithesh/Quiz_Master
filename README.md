@@ -15,3 +15,8 @@
 3) Open any browser(Google) and open these two tabs: \
             a)GUI webpage : http://localhost/quiz_app/login.php \
             b)MySQL Database : http://localhost/phpmyadmin
+
+
+
+FOR ADMIN : USERNAME - admin
+            PASSWORD - password
